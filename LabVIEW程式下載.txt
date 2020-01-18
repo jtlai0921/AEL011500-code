@@ -1,0 +1,2 @@
+LabVIEW主程式下載：
+http://www.ni.com/download-labview/zht/
